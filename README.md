@@ -9,7 +9,6 @@ This is my personal Git repository where I will store the codes I used during my
   - Machine Learning
   - NLP
 - Exercises
-- Game development
 
 I hope this repository can be helpful to you and provide insight into my coding style.
 
